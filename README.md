@@ -27,7 +27,6 @@
 
   #### Servidor Web
 - Apache
-- Nginx
 - Servidor de Base de Datos MySQL
 
 ------------
