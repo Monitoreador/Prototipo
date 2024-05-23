@@ -18,14 +18,14 @@
 #### Software
 - Arduino IDE
 
-##### Bibliotecas Arduino
+#### Bibliotecas Arduino
 - WiFi.h: Para manejar la conexión WiFi en el ESP32.
 - HTTPClient.h: Para realizar solicitudes HTTP.
 - Stepper.h: Para controlar el motor paso a paso.
 - SPI.h: Para comunicación SPI.
 - MFRC522.h: Para interactuar con el módulo RFID RC522.
 
-  ##### Servidor Web
+  #### Servidor Web
 - Apache
 - Nginx
 - Servidor de Base de Datos MySQL
