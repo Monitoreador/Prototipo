@@ -5,13 +5,6 @@
 ### Autores 
 - Gabriel Gerardo Parra Rosales
 - Abril Yaretsi Cuellar Fuentes
-------------
-### Materiales
-- ESP32
-- Sensor Ultrasónico HC-SR04
-- Motor A Pasos 28byj-48
-- RC522 Módulo RFID
-
 
 ------------
 
