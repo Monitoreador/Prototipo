@@ -25,6 +25,11 @@
 - SPI.h: Para comunicación SPI.
 - MFRC522.h: Para interactuar con el módulo RFID RC522.
 
+  ##### Servidor Web
+- Apache
+- Nginx
+- Servidor de Base de Datos MySQL
+
 ------------
 
 
