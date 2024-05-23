@@ -21,7 +21,7 @@
 ------------
 
 ### Prototipo 
-Aquí dejaremos algunsa imagenes de nuestro prototipo 
+###### Aquí dejaremos algunsa imagenes de nuestro prototipo 
 ------------
 
 [![imagen1.jpg](https://i.postimg.cc/y8HX3n6y/imagen1.jpg)](https://postimg.cc/CzcfWGqR)
