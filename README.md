@@ -33,7 +33,7 @@
 
 
 ### Código 
-[Aquí ](https://github.com/Monitoreador/Prototipo/blob/9a9ba01c4b871aef2569257c4c182d00ce757c7d/proyecto_con_web.ino "Aquí ")podrás acceder al enlace del código, el cual está anotado de manera que te permita comprender su estructura y propósito.
+[Aquí ](https://github.com/Monitoreador/Prototipo/blob/9a9ba01c4b871aef2569257c4c182d00ce757c7d/proyecto_con_web.ino "Aquí ")podrás acceder al código principal del prototipo.
 
 ------------
 
