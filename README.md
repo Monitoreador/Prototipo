@@ -16,7 +16,7 @@
 ------------
 
 ### Código 
-[Aquí ](http://https://github.com/Monitoreador/Prototipo/blob/main/proyecto_con_web.ino "Aquí ") podrás acceder al enlace del código, el cual está anotado de manera que te permita comprender su estructura y propósito.
+[Aquí ](http://https://github.com/Monitoreador/Prototipo/blob/main/proyecto_con_web.ino "Aquí ")podrás acceder al enlace del código, el cual está anotado de manera que te permita comprender su estructura y propósito.
 
 ------------
 
