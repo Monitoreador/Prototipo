@@ -7,13 +7,33 @@
 - Abril Yaretsi Cuellar Fuentes
 ------------
 ### Materiales
-- Esp32
+- ESP32
 - Sensor Ultrasónico HC-SR04
 - Motor A Pasos 28byj-48
 - RC522 Módulo RFID
 
 
 ------------
+
+### Requerimientos
+#### Hardware 
+- Esp32
+- Sensor Ultrasónico HC-SR04
+- Motor A Pasos 28byj-48
+- RC522 Módulo RFID
+
+#### Software
+- Arduino IDE
+
+##### Bibliotecas Arduino
+- WiFi.h: Para manejar la conexión WiFi en el ESP32.
+- HTTPClient.h: Para realizar solicitudes HTTP.
+- Stepper.h: Para controlar el motor paso a paso.
+- SPI.h: Para comunicación SPI.
+- MFRC522.h: Para interactuar con el módulo RFID RC522.
+
+------------
+
 
 ### Código 
 [Aquí ](https://github.com/Monitoreador/Prototipo/blob/9a9ba01c4b871aef2569257c4c182d00ce757c7d/proyecto_con_web.ino "Aquí ")podrás acceder al enlace del código, el cual está anotado de manera que te permita comprender su estructura y propósito.
