@@ -19,6 +19,22 @@
 [Aquí ](https://github.com/Monitoreador/Prototipo/blob/9a9ba01c4b871aef2569257c4c182d00ce757c7d/proyecto_con_web.ino "Aquí ")podrás acceder al enlace del código, el cual está anotado de manera que te permita comprender su estructura y propósito.
 ------------
 
+###  Datos del código 
+- Cambia el valor de ssid por el nombre de la red WiFi a la que quieres conectarte.
+
+- Cambia el valor de password por la contraseña de la red WiFi.
+
+- Cambia el valor de serverName por la URL o IP del servidor y el endpoint donde se enviarán los datos. Asegúrate de que la URL o IP esté correcta y que el endpoint esté configurado para recibir datos.
+
+```c
+const char* ssid = "Monitor Sanitario"; // Replace with your WiFi SSID
+const char* password = "monitor12345"; // Replace with your WiFi password
+const char* serverName = "http://192.168.105.71/save_data.php"; // Replace with your server IP or domain
+
+```
+
+------------
+
 ### Prototipo 
 Aquí dejaremos algunsa imagenes de nuestro prototipo 
 ------------
